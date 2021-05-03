@@ -20,7 +20,7 @@ function CheckboxExample() {
           'aria-label': 'secondary checkbox'
         }}
       />}
-      label="Testing Checkbox"
+      label="Testing Checkbox And Testing Git"
     />
   )
 }
